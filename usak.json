@@ -1,18 +1,19 @@
-{"usak":[
-    {
-        "isim":"Ulubey Kanyonları",
-        "aciklama":"Uşak Ulubey Kanyonu, dünyanın en büyük ikinci kanyonu olarak bilinmektedir.",
-        "fotourl":"https://github.com/XRehe/TOGU-img/blob/main/kanyon.jpg"
-    },
-    {
-        "isim":"Taşyaran Vadisi",
-        "aciklama":"su, rüzgâr ve tektonik hareketler sonucu oluşmuştur. Vadiyi kaplayan ve zeminden başlayarak farklı renklere bürünen kayalar, bir ressamın renk paleti gibi görünmektedir",
-        "fotourl":"https://github.com/XRehe/TOGU-img/blob/main/vadi.jpg"
-    },
-    {
-        "isim":"Blaundus Antik Kent",
-        "aciklama":"Blaundos, Makedon Krallığı döneminde kurulan antik şehir. ",
-        "fotourl":"https://github.com/XRehe/TOGU-img/blob/main/antik%20kent.jpg"
-    }
-]
+{
+    "usak": [
+        {
+            "isim": "Ulubey Kanyonları",
+            "aciklama": "Uşak Ulubey Kanyonu, dünyanın en büyük ikinci kanyonu olarak bilinmektedir.",
+            "fotourl": "https://raw.githubusercontent.com/XRehe/TOGU-img/main/kanyon.jpg"
+        },
+        {
+            "isim": "Taşyaran Vadisi",
+            "aciklama": "su, rüzgâr ve tektonik hareketler sonucu oluşmuştur. Vadiyi kaplayan ve zeminden başlayarak farklı renklere bürünen kayalar, bir ressamın renk paleti gibi görünmektedir",
+            "fotourl": "https://raw.githubusercontent.com/XRehe/TOGU-img/main/vadi.jpg"
+        },
+        {
+            "isim": "Blaundus Antik Kent",
+            "aciklama": "Blaundos, Makedon Krallığı döneminde kurulan antik şehir.",
+            "fotourl": "https://raw.githubusercontent.com/XRehe/TOGU-img/main/antik%20kent.jpg"
+        }
+    ]
 }
